@@ -1,0 +1,8 @@
+Model Information:
+* title:	Debit card reader
+* source:	https://sketchfab.com/3d-models/debit-card-reader-692490a6d73742cb86da96bcb6a4cfcb
+* author:	ReamoSystems (https://sketchfab.com/ReamoSystems)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
